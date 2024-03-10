@@ -1,0 +1,1 @@
+ D:\\MODULAR-5\\DESARROLLOAPPMOVIL\\Proyectos_APPMovil\\flutter\\tarea1\\.dart_tool\\flutter_build\\2eb88804bcb81f33b4b7fc12b0aa3e96\\native_assets.yaml: 

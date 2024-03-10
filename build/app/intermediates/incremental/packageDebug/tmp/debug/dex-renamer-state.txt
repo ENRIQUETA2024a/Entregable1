@@ -1,0 +1,4 @@
+#Sun Mar 10 14:52:26 COT 2024
+base.0=D\:\\MODULAR-5\\DESARROLLOAPPMOVIL\\Proyectos_APPMovil\\flutter\\tarea1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
