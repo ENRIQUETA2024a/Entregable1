@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tarea1/bodega/controllers/producto_controller.dart';
-import 'package:tarea1/bodega/models/producto_model.dart';
 import 'package:tarea1/bodega/views/cart_screen.dart';
-import 'package:tarea1/bodega/views/productos_list.dart';
-import 'package:tarea1/clases/banner.dart';
 
 void main() {
   runApp(const MyApp());

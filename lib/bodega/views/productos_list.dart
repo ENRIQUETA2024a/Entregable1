@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tarea1/bodega/models/carrito_model.dart';
 import 'package:tarea1/bodega/models/producto_model.dart';
 
 class ProductCard extends StatelessWidget {
