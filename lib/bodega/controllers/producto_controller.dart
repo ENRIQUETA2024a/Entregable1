@@ -39,7 +39,7 @@ class _ProductListScreenState extends State<ProductList> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Product List'),
+          title: const Text('Bodega Digital'),
         ),
         body: Center(
           child: SingleChildScrollView(
