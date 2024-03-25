@@ -22,7 +22,7 @@ class _ProductListScreenState extends State<ProductList> {
   Future<void> fetchProducts() async {
     // you can replace your api link with this link
     final response = await http.get(Uri.parse(
-        'https://shop-api-roan.vercel.app/product?page=1&pageSize=5'));
+        'https://shop-api-roan.vercel.app/product?page=1&pageSize=4'));
     if (response.statusCode == 200) {
       List<dynamic> jsonData = json.decode(response.body);
 
