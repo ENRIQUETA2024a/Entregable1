@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tarea1/clases/lista_productos.dart';
 
 class Columna extends StatelessWidget {
   const Columna(this.elcolor, {super.key});
@@ -11,10 +10,10 @@ class Columna extends StatelessWidget {
     return Column(
       children: [
         const SizedBox(
-          height: 20,
+          height: 10,
         ),
         Container(
-          height: 200,
+          height: 50,
           color: elcolor,
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -33,9 +32,9 @@ class Columna extends StatelessWidget {
         const SizedBox(
           height: 20,
         ),
-        const Expanded(
-          child: ListaProductos(),
-        )
+        // const Expanded(
+        //   child: ListaProductos(),
+        // )
       ],
     );
   }
